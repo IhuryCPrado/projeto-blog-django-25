@@ -50,5 +50,15 @@
     "python.defaultInterpreterPath": "./venv/bin/python",
     "python.analysis.typeCheckingMode": "basic",
     "cSpell.enabled": true,
-    "python.formatting.provider": "none"
-  }
+    "python.formatting.provider": "none",
+
+    "[html]": {
+      "editor.tabSize": 2,
+      "editor.insertSpaces": true
+    },
+    "[css]": {
+      "editor.tabSize": 2,
+      "editor.insertSpaces": true
+    }
+
+}
